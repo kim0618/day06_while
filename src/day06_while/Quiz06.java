@@ -58,6 +58,7 @@ public class Quiz06 {
 			b=input.nextInt();
 		*/
 		
+		// 모르겠음
 			int num1, num2, max=0, min=0, i=2;
 			System.out.print("두 수 입력 : ");
 			num1 = input.nextInt();
